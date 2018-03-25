@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Landing Page</string>
+    <string name="do_you_feel_like_drinking_coffee">Do you feel like drinking coffee?   \n\nBut you feel too lazy to make yourself?   \n\nHere comes our Coffee Ordering App</string>
+    <string name="type_in_your_name">\tType in your name for \nyour personalised order!</string>
+    <string name="choose_from_a_wide_range">Choose from a wide range \n\t\t\t\t\t\t\tof coffee drinks!</string>
+    <string name="choose_from_2_toppings">Choose from 2 of your \n\t\t\tfavourite toppings!</string>
+    <string name="order_as_many">\t\t\tOrder as many \ntill you get satisfied!\b\b</string>
+    <string name="simply_email">Simply email us \n\t\t\t\t\tthe order</string>
+    <string name="welcome_to_our_app">Welcome to our App!</string>
+    <string name="get_this_app">Get this app!</string>
+</resources>
